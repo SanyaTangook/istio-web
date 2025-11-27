@@ -3,12 +3,12 @@ entries:
   web-base:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-11-27T17:50:57.42327+07:00"
+    created: "2025-11-27T18:24:30.885023+07:00"
     description: A Helm chart for Kubernetes
-    digest: ea00018ccb72085a64e4458ac23d87a9f376746f539a465c053ab6c2699682e0
+    digest: a04b0e07927063a3a27865c5c334a0465ee4efba6f2c29d3a4e888cbbc22e744
     name: web-base
     type: application
     urls:
-    - https://github.com/SanyaTangook/istio-web/web-base-0.1.0.tgz
+    - https://sanyatangook.github.io/istio-web/web-base-0.1.0.tgz
     version: 0.1.0
-generated: "2025-11-27T17:50:57.422996+07:00"
+generated: "2025-11-27T18:24:30.884677+07:00"
