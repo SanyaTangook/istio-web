@@ -1,24 +1,24 @@
 apiVersion: v1
 entries:
   web-base:
-    - apiVersion: v2
-      appVersion: 1.17.0
-      created: "2026-04-03T01:25:17.223144+07:00"
-      description: A Helm chart for Kubernetes
-      digest: e49130e0752ec61608864fadd25c0471284a73ce77d5a79905aa441db0b8f828
-      name: web-base
-      type: application
-      urls:
-        - https://github.com/SanyaTangook/istio-web/web-base-0.1.1.tgz
-      version: 0.1.1
-    - apiVersion: v2
-      appVersion: 1.16.0
-      created: "2026-04-03T01:25:17.222196+07:00"
-      description: A Helm chart for Kubernetes
-      digest: a04b0e07927063a3a27865c5c334a0465ee4efba6f2c29d3a4e888cbbc22e744
-      name: web-base
-      type: application
-      urls:
-        - https://github.com/SanyaTangook/istio-web/web-base-0.1.0.tgz
-      version: 0.1.0
-generated: "2026-04-03T01:25:17.221351+07:00"
+  - apiVersion: v2
+    appVersion: 1.17.0
+    created: "2026-04-03T01:48:35.83814+07:00"
+    description: A Helm chart for Kubernetes
+    digest: e49130e0752ec61608864fadd25c0471284a73ce77d5a79905aa441db0b8f828
+    name: web-base
+    type: application
+    urls:
+    - https://sanyatangook.github.io/istio-web/docs/web-base-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-04-03T01:48:35.837177+07:00"
+    description: A Helm chart for Kubernetes
+    digest: a04b0e07927063a3a27865c5c334a0465ee4efba6f2c29d3a4e888cbbc22e744
+    name: web-base
+    type: application
+    urls:
+    - https://sanyatangook.github.io/istio-web/docs/web-base-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-04-03T01:48:35.836449+07:00"
