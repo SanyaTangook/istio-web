@@ -9,7 +9,7 @@ entries:
       name: web-base
       type: application
       urls:
-        - docs/web-base-0.1.1.tgz
+        - https://github.com/SanyaTangook/istio-web/web-base-0.1.1.tgz
       version: 0.1.1
     - apiVersion: v2
       appVersion: 1.16.0
@@ -19,6 +19,6 @@ entries:
       name: web-base
       type: application
       urls:
-        - docs/web-base-0.1.0.tgz
+        - https://github.com/SanyaTangook/istio-web/web-base-0.1.0.tgz
       version: 0.1.0
 generated: "2026-04-03T01:25:17.221351+07:00"
